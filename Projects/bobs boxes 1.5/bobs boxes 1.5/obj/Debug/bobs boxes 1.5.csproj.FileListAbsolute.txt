@@ -1,0 +1,7 @@
+c:\users\dipiloga110\documents\visual studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\bin\Debug\bobs boxes 1.5.exe.config
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\bin\Debug\bobs boxes 1.5.exe
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\bin\Debug\bobs boxes 1.5.pdb
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\obj\Debug\bobs boxes 1.5.csprojResolveAssemblyReference.cache
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\obj\Debug\bobs boxes 1.5.exe
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\obj\Debug\bobs boxes 1.5.pdb
+C:\Users\Dipiloga110\Documents\Visual Studio 2015\Projects\bobs boxes 1.5\bobs boxes 1.5\bin\Debug\box_data.txt

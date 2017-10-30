@@ -1,0 +1,6 @@
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\bin\Debug\damien birthdaytimewoohoo.exe.config
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\obj\Debug\damien birthdaytimewoohoo.csprojResolveAssemblyReference.cache
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\bin\Debug\damien birthdaytimewoohoo.exe
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\bin\Debug\damien birthdaytimewoohoo.pdb
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\obj\Debug\damien birthdaytimewoohoo.exe
+c:\users\dipiloga110\documents\visual studio 2015\Projects\damien birthdaytimewoohoo\damien birthdaytimewoohoo\obj\Debug\damien birthdaytimewoohoo.pdb
